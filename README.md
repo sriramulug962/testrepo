@@ -1,2 +1,2 @@
 # testrepo
-myrepo
+myrepo  "This is TEST"
